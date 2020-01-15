@@ -6,3 +6,5 @@ Steps to run locally:
 * run `npm install`
 * run `nodemon`
 * Open browser then go to `http://127.0.0.1:3000`
+
+connect database with mongodb database
